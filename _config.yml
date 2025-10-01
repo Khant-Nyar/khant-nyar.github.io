@@ -1,0 +1,13 @@
+title: Khant Nyar's Tech Blog
+description: မြန်မာလိုနည်းပညာဆောင်းပါးများ
+baseurl: ""
+url: "https://khant-nyar.github.io"
+permalink: /:year/:month/:day/:title/
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Plugins
+plugins:
+  - jekyll-feed
