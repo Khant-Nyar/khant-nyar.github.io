@@ -1,9 +1,11 @@
 ---
-layout: post
 title: "Laravel Framework အကြောင်း အခြေခံသိကောင်းစရာများ"
+author: khantnyar
 date: 2024-01-15 10:00:00 +0630
-categories: laravel php
+categories: [Laravel, php]
+tags: [laravel]
 ---
+
 
 # Laravel Framework အကြောင်း အခြေခံသိကောင်းစရာများ
 

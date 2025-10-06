@@ -1,10 +1,10 @@
 ---
-layout: post
 title: "Laravel Migration နှင့် Database စီမံခန့်ခွဲမှု"
+author: khantnyar
 date: 2024-01-20 09:30:00 +0630
-categories: laravel database
+categories: [Laravel, php]
+tags: [laravel]
 ---
-
 # Laravel Migration နှင့် Database စီမံခန့်ခွဲမှု
 
 Laravel Migration သည် database schema ကို version control လုပ်နိုင်စေသော အရေးကြီงသော feature တစ်ခုဖြစ်ပါတယ်။ Migration များကို အသုံးပြုပြီး database structure ကို အလွယ်တကူ ပြောင်းလဲနိုင်ပါတယ်။
